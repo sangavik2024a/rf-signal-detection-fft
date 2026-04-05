@@ -25,6 +25,24 @@ This project demonstrates RF signal detection using:
 1. Install dependencies: pip install -r requirements.txt
 2. Run: python main.py
 
+## Theory
+
+### Energy Detection
+- H0: Noise only
+- H1: Signal + Noise
+- Decision based on energy threshold
+
+### Threshold Selection
+- Derived using Chi-square distribution
+- Controlled using Probability of False Alarm (Pfa)
+
+### FFT & PSD
+- FFT converts signal to frequency domain
+- Interference appears as sharp peak in PSD
+
+### ROC Curve
+- Shows trade-off between detection probability and false alarm
+
 ## Output
 ![Output](output.png)
 
