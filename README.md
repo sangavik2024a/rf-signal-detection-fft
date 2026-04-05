@@ -25,6 +25,9 @@ This project demonstrates RF signal detection using:
 1. Install dependencies: pip install -r requirements.txt
 2. Run: python main.py
 
+## Output
+![Output](output.png)
+
 ## Future Work
 - Real-time RF data acquisition using Raspberry Pi
 - SDR (Software Defined Radio) integration
