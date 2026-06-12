@@ -44,7 +44,7 @@ This project demonstrates RF signal detection using:
 - Shows trade-off between detection probability and false alarm
 
 ## Output
-![Output](output.png)
+![FFT Output](output.jpeg)
 
 ## Future Work
 - Real-time RF data acquisition using Raspberry Pi
