@@ -51,5 +51,11 @@ This project demonstrates RF signal detection using:
 - SDR (Software Defined Radio) integration
 - Embedded implementation
 
+## Documentation
+
+The complete project report containing methodology, FFT analysis, implementation details, and results can be accessed below.
+
+📄 **Report:** [RF_Detection_Report24bec1024.pdf](RF_Detection_Report24bec1024.pdf)
+
 ## Author
 K Sangavi
